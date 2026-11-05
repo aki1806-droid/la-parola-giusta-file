@@ -1,6 +1,6 @@
 # La Parola Giusta · link ai file
 
-Aggiornato il 6 novembre 2026 alle ore 00:23. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio privato [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): i link si aprono solo con l'account GitHub di Achille.
+Aggiornato il 6 novembre 2026 alle ore 00:34. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
 
 ## Ep 01
 
