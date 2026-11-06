@@ -142,7 +142,7 @@ Le voci delle singole battute sono in fondo.
 
 | File | Cartella | Dimensione | Link |
 |---|---|---|---|
-| METODO_La_Parola_Giusta.md |  | 21 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/generale/METODO_La_Parola_Giusta.md) |
+| METODO_La_Parola_Giusta.md |  | 22 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/generale/METODO_La_Parola_Giusta.md) |
 
 ## Identita sonora
 
