@@ -1,6 +1,6 @@
 # La Parola Giusta · link ai file
 
-Aggiornato il 6 novembre 2026 alle ore 00:36. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
+Aggiornato il 6 novembre 2026 alle ore 01:07. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
 
 ## Episodi montati
 
@@ -9,21 +9,58 @@ Aggiornato il 6 novembre 2026 alle ore 00:36. Un link per ogni file, che lo scar
 - [LaParolaGiusta_ep00_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_podcast.mp3) · 3,0 MB
 - [LaParolaGiusta_ep00_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_copertina_3000.jpg) · 358 KB
 - [LaParolaGiusta_ep00_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_copione.md) · 3 KB
+- [LaParolaGiusta_ep00_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_descrizione.txt) · 2 KB
+- [LaParolaGiusta_ep00_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_estratto_copertina_1.png) · 161 KB
+- [LaParolaGiusta_ep00_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_estratto_finale.png) · 101 KB
+- [LaParolaGiusta_ep00_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_miniatura_youtube.jpg) · 123 KB
 - [LaParolaGiusta_ep00_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_sottotitoli.srt) · 4 KB
+- [LaParolaGiusta_ep00_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_spotify.txt) · 1 KB
+- [LaParolaGiusta_ep00_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_youtube.mp4) · 49,2 MB
 
 **Ep 01**
 
 - [LaParolaGiusta_ep01_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_podcast.mp3) · 11,8 MB
+- [LaParolaGiusta_ep01_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_01.png) · 35 KB
+- [LaParolaGiusta_ep01_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_02.png) · 50 KB
+- [LaParolaGiusta_ep01_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_03.png) · 43 KB
+- [LaParolaGiusta_ep01_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_04.png) · 35 KB
 - [LaParolaGiusta_ep01_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_copertina_3000.jpg) · 266 KB
 - [LaParolaGiusta_ep01_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_copione.md) · 12 KB
+- [LaParolaGiusta_ep01_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep01_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_copertina_1.png) · 172 KB
+- [LaParolaGiusta_ep01_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_copertina_2.png) · 149 KB
+- [LaParolaGiusta_ep01_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_finale.png) · 126 KB
+- [LaParolaGiusta_ep01_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_miniatura_youtube.jpg) · 103 KB
+- [LaParolaGiusta_ep01_social_2027-01-22_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-22_storia-anticipo.jpg) · 118 KB
+- [LaParolaGiusta_ep01_social_2027-01-26_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-26_annuncio-online.jpg) · 90 KB
+- [LaParolaGiusta_ep01_social_2027-01-28_citazione.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-28_citazione.jpg) · 133 KB
+- [LaParolaGiusta_ep01_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_social.md) · 5 KB
 - [LaParolaGiusta_ep01_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_sottotitoli.srt) · 18 KB
+- [LaParolaGiusta_ep01_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_spotify.txt) · 2 KB
+- [LaParolaGiusta_ep01_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_youtube.mp4) · 185,4 MB
 
 **Ep 02**
 
 - [LaParolaGiusta_ep02_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_podcast.mp3) · 10,4 MB
+- [LaParolaGiusta_ep02_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_01.png) · 44 KB
+- [LaParolaGiusta_ep02_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_02.png) · 31 KB
+- [LaParolaGiusta_ep02_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_03.png) · 38 KB
+- [LaParolaGiusta_ep02_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_04.png) · 39 KB
+- [LaParolaGiusta_ep02_capitolo_05.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_05.png) · 34 KB
 - [LaParolaGiusta_ep02_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_copertina_3000.jpg) · 249 KB
 - [LaParolaGiusta_ep02_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_copione.md) · 11 KB
+- [LaParolaGiusta_ep02_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep02_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_copertina_1.png) · 172 KB
+- [LaParolaGiusta_ep02_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_copertina_2.png) · 183 KB
+- [LaParolaGiusta_ep02_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_finale.png) · 124 KB
+- [LaParolaGiusta_ep02_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_miniatura_youtube.jpg) · 102 KB
+- [LaParolaGiusta_ep02_social_2027-02-05_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-05_storia-anticipo.jpg) · 109 KB
+- [LaParolaGiusta_ep02_social_2027-02-09_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-09_annuncio-online.jpg) · 69 KB
+- [LaParolaGiusta_ep02_social_2027-02-11_vero-o-falso.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-11_vero-o-falso.jpg) · 85 KB
+- [LaParolaGiusta_ep02_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_social.md) · 5 KB
 - [LaParolaGiusta_ep02_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_sottotitoli.srt) · 16 KB
+- [LaParolaGiusta_ep02_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_spotify.txt) · 2 KB
+- [LaParolaGiusta_ep02_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_youtube.mp4) · 171,2 MB
 
 ## Tutti i file, cartella per cartella
 
@@ -37,8 +74,14 @@ Le voci delle singole battute sono in fondo.
 |---|---|---|---|
 | LaParolaGiusta_ep00_copertina_3000.jpg | Trailer | 358 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_copertina_3000.jpg) |
 | LaParolaGiusta_ep00_copione.md | Trailer | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_copione.md) |
+| LaParolaGiusta_ep00_descrizione.txt | Trailer | 2 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_descrizione.txt) |
+| LaParolaGiusta_ep00_miniatura_youtube.jpg | Trailer | 123 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_miniatura_youtube.jpg) |
 | LaParolaGiusta_ep00_podcast.mp3 | Trailer | 3,0 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_podcast.mp3) |
 | LaParolaGiusta_ep00_sottotitoli.srt | Trailer | 4 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_sottotitoli.srt) |
+| LaParolaGiusta_ep00_spotify.txt | Trailer | 1 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_spotify.txt) |
+| LaParolaGiusta_ep00_youtube.mp4 | Trailer | 49,2 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_youtube.mp4) |
+| LaParolaGiusta_ep00_estratto_copertina_1.png | Trailer/estratti | 161 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_estratto_copertina_1.png) |
+| LaParolaGiusta_ep00_estratto_finale.png | Trailer/estratti | 101 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/trailer/LaParolaGiusta_ep00_estratto_finale.png) |
 
 ## Ep 01
 
@@ -48,8 +91,23 @@ Le voci delle singole battute sono in fondo.
 |---|---|---|---|
 | LaParolaGiusta_ep01_copertina_3000.jpg | Ep 01 | 266 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_copertina_3000.jpg) |
 | LaParolaGiusta_ep01_copione.md | Ep 01 | 12 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_copione.md) |
+| LaParolaGiusta_ep01_descrizione.txt | Ep 01 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_descrizione.txt) |
+| LaParolaGiusta_ep01_miniatura_youtube.jpg | Ep 01 | 103 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_miniatura_youtube.jpg) |
 | LaParolaGiusta_ep01_podcast.mp3 | Ep 01 | 11,8 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_podcast.mp3) |
 | LaParolaGiusta_ep01_sottotitoli.srt | Ep 01 | 18 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_sottotitoli.srt) |
+| LaParolaGiusta_ep01_spotify.txt | Ep 01 | 2 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_spotify.txt) |
+| LaParolaGiusta_ep01_youtube.mp4 | Ep 01 | 185,4 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_youtube.mp4) |
+| LaParolaGiusta_ep01_estratto_copertina_1.png | Ep 01/estratti | 172 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_copertina_1.png) |
+| LaParolaGiusta_ep01_estratto_copertina_2.png | Ep 01/estratti | 149 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_copertina_2.png) |
+| LaParolaGiusta_ep01_estratto_finale.png | Ep 01/estratti | 126 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_estratto_finale.png) |
+| LaParolaGiusta_ep01_capitolo_01.png | Ep 01/grafiche | 35 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_01.png) |
+| LaParolaGiusta_ep01_capitolo_02.png | Ep 01/grafiche | 50 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_02.png) |
+| LaParolaGiusta_ep01_capitolo_03.png | Ep 01/grafiche | 43 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_03.png) |
+| LaParolaGiusta_ep01_capitolo_04.png | Ep 01/grafiche | 35 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_capitolo_04.png) |
+| LaParolaGiusta_ep01_social_2027-01-22_storia-anticipo.jpg | Ep 01/social | 118 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-22_storia-anticipo.jpg) |
+| LaParolaGiusta_ep01_social_2027-01-26_annuncio-online.jpg | Ep 01/social | 90 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-26_annuncio-online.jpg) |
+| LaParolaGiusta_ep01_social_2027-01-28_citazione.jpg | Ep 01/social | 133 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_2027-01-28_citazione.jpg) |
+| LaParolaGiusta_ep01_social_social.md | Ep 01/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-01/LaParolaGiusta_ep01_social_social.md) |
 
 ## Ep 02
 
@@ -59,8 +117,24 @@ Le voci delle singole battute sono in fondo.
 |---|---|---|---|
 | LaParolaGiusta_ep02_copertina_3000.jpg | Ep 02 | 249 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_copertina_3000.jpg) |
 | LaParolaGiusta_ep02_copione.md | Ep 02 | 11 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_copione.md) |
+| LaParolaGiusta_ep02_descrizione.txt | Ep 02 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_descrizione.txt) |
+| LaParolaGiusta_ep02_miniatura_youtube.jpg | Ep 02 | 102 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_miniatura_youtube.jpg) |
 | LaParolaGiusta_ep02_podcast.mp3 | Ep 02 | 10,4 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_podcast.mp3) |
 | LaParolaGiusta_ep02_sottotitoli.srt | Ep 02 | 16 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_sottotitoli.srt) |
+| LaParolaGiusta_ep02_spotify.txt | Ep 02 | 2 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_spotify.txt) |
+| LaParolaGiusta_ep02_youtube.mp4 | Ep 02 | 171,2 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_youtube.mp4) |
+| LaParolaGiusta_ep02_estratto_copertina_1.png | Ep 02/estratti | 172 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_copertina_1.png) |
+| LaParolaGiusta_ep02_estratto_copertina_2.png | Ep 02/estratti | 183 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_copertina_2.png) |
+| LaParolaGiusta_ep02_estratto_finale.png | Ep 02/estratti | 124 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_estratto_finale.png) |
+| LaParolaGiusta_ep02_capitolo_01.png | Ep 02/grafiche | 44 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_01.png) |
+| LaParolaGiusta_ep02_capitolo_02.png | Ep 02/grafiche | 31 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_02.png) |
+| LaParolaGiusta_ep02_capitolo_03.png | Ep 02/grafiche | 38 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_03.png) |
+| LaParolaGiusta_ep02_capitolo_04.png | Ep 02/grafiche | 39 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_04.png) |
+| LaParolaGiusta_ep02_capitolo_05.png | Ep 02/grafiche | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_capitolo_05.png) |
+| LaParolaGiusta_ep02_social_2027-02-05_storia-anticipo.jpg | Ep 02/social | 109 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-05_storia-anticipo.jpg) |
+| LaParolaGiusta_ep02_social_2027-02-09_annuncio-online.jpg | Ep 02/social | 69 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-09_annuncio-online.jpg) |
+| LaParolaGiusta_ep02_social_2027-02-11_vero-o-falso.jpg | Ep 02/social | 85 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_2027-02-11_vero-o-falso.jpg) |
+| LaParolaGiusta_ep02_social_social.md | Ep 02/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-02/LaParolaGiusta_ep02_social_social.md) |
 
 ## Generale
 
@@ -101,6 +175,19 @@ Le voci delle singole battute sono in fondo.
 | tommaso_A.mp3 | Identita sonora/provini voci ospiti | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_A.mp3) |
 | tommaso_B.mp3 | Identita sonora/provini voci ospiti | 118 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_B.mp3) |
 | tommaso_C.mp3 | Identita sonora/provini voci ospiti | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_C.mp3) |
+
+## Prelancio
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/prelancio)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| LaParolaGiusta_prelancio_2026-12-15_post-annuncio.jpg | Prelancio | 95 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_2026-12-15_post-annuncio.jpg) |
+| LaParolaGiusta_prelancio_2026-12-15_storia-annuncio.jpg | Prelancio | 120 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_2026-12-15_storia-annuncio.jpg) |
+| LaParolaGiusta_prelancio_2027-01-05_storia-conto-alla-rovescia.jpg | Prelancio | 114 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_2027-01-05_storia-conto-alla-rovescia.jpg) |
+| LaParolaGiusta_prelancio_2027-01-12_annuncio-trailer-online.jpg | Prelancio | 107 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_2027-01-12_annuncio-trailer-online.jpg) |
+| LaParolaGiusta_prelancio_2027-01-12_storia-trailer-online.jpg | Prelancio | 99 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_2027-01-12_storia-trailer-online.jpg) |
+| LaParolaGiusta_prelancio_social.md | Prelancio | 7 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/prelancio/LaParolaGiusta_prelancio_social.md) |
 
 ## Prove
 
