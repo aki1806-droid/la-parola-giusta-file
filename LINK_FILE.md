@@ -1,6 +1,6 @@
 # La Parola Giusta · link ai file
 
-Aggiornato il 6 novembre 2026 alle ore 10:03. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
+Aggiornato il 6 novembre 2026 alle ore 10:04. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
 
 ## Episodi montati
 
@@ -178,7 +178,7 @@ Le voci delle singole battute sono in fondo.
 
 | File | Cartella | Dimensione | Link |
 |---|---|---|---|
-| METODO_La_Parola_Giusta.md |  | 22 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/generale/METODO_La_Parola_Giusta.md) |
+| METODO_La_Parola_Giusta.md |  | 23 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/generale/METODO_La_Parola_Giusta.md) |
 
 ## Identita sonora
 
