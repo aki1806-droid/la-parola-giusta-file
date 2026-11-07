@@ -1,6 +1,6 @@
 # La Parola Giusta · link ai file
 
-Aggiornato il 6 novembre 2026 alle ore 10:04. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
+Aggiornato il 7 novembre 2026 alle ore 23:24. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
 
 ## Episodi montati
 
@@ -196,9 +196,14 @@ Le voci delle singole battute sono in fondo.
 | tazza.mp3 | Identita sonora | 50 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tazza.mp3) |
 | voci_ospiti.json | Identita sonora | 1 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/voci_ospiti.json) |
 | cucina.mp3 | Identita sonora/ambienti | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/cucina.mp3) |
+| laboratorio.mp3 | Identita sonora/ambienti | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/laboratorio.mp3) |
+| sera.mp3 | Identita sonora/ambienti | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/sera.mp3) |
 | studio.mp3 | Identita sonora/ambienti | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/studio.mp3) |
+| ufficio.mp3 | Identita sonora/ambienti | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/ufficio.mp3) |
 | sigla_B.mp3 | Identita sonora/provini scartati | 440 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/sigla_B.mp3) |
 | stacco_B.mp3 | Identita sonora/provini scartati | 96 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/stacco_B.mp3) |
+| chiara_A.mp3 | Identita sonora/provini voci ospiti | 265 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/chiara_A.mp3) |
+| chiara_B.mp3 | Identita sonora/provini voci ospiti | 253 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/chiara_B.mp3) |
 | davide_A.mp3 | Identita sonora/provini voci ospiti | 124 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/davide_A.mp3) |
 | davide_B.mp3 | Identita sonora/provini voci ospiti | 118 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/davide_B.mp3) |
 | davide_C.mp3 | Identita sonora/provini voci ospiti | 122 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/davide_C.mp3) |
@@ -208,6 +213,9 @@ Le voci delle singole battute sono in fondo.
 | giulia_A.mp3 | Identita sonora/provini voci ospiti | 163 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/giulia_A.mp3) |
 | giulia_B.mp3 | Identita sonora/provini voci ospiti | 166 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/giulia_B.mp3) |
 | giulia_C.mp3 | Identita sonora/provini voci ospiti | 162 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/giulia_C.mp3) |
+| paolo_A.mp3 | Identita sonora/provini voci ospiti | 273 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/paolo_A.mp3) |
+| paolo_B.mp3 | Identita sonora/provini voci ospiti | 267 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/paolo_B.mp3) |
+| paolo_C.mp3 | Identita sonora/provini voci ospiti | 292 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/paolo_C.mp3) |
 | tommaso_A.mp3 | Identita sonora/provini voci ospiti | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_A.mp3) |
 | tommaso_B.mp3 | Identita sonora/provini voci ospiti | 118 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_B.mp3) |
 | tommaso_C.mp3 | Identita sonora/provini voci ospiti | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/identita-sonora/tommaso_C.mp3) |
