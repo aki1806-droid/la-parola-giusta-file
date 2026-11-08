@@ -1,6 +1,6 @@
 # La Parola Giusta · link ai file
 
-Aggiornato il 8 novembre 2026 alle ore 02:19. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
+Aggiornato il 8 novembre 2026 alle ore 15:23. Un link per ogni file, che lo scarica direttamente. Sono su GitHub, nell'archivio pubblico [la-parola-giusta-file](https://github.com/aki1806-droid/la-parola-giusta-file): funzionano per chiunque, senza accedere a nessun account.
 
 ## Episodi montati
 
@@ -141,6 +141,67 @@ Aggiornato il 8 novembre 2026 alle ore 02:19. Un link per ogni file, che lo scar
 - [LPG_POD_09_giradischi.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04/LPG_POD_09_giradischi.jpg) · 396 KB
 - [LPG_POD_10_cena-telefono.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04/LPG_POD_10_cena-telefono.jpg) · 270 KB
 
+**Ep 05**
+
+- [LaParolaGiusta_ep05_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_podcast.mp3) · 11,2 MB
+- [LaParolaGiusta_ep05_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_01.png) · 39 KB
+- [LaParolaGiusta_ep05_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_02.png) · 37 KB
+- [LaParolaGiusta_ep05_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_03.png) · 37 KB
+- [LaParolaGiusta_ep05_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_04.png) · 42 KB
+- [LaParolaGiusta_ep05_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_copertina_3000.jpg) · 257 KB
+- [LaParolaGiusta_ep05_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_copione.md) · 11 KB
+- [LaParolaGiusta_ep05_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep05_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_copertina_1.png) · 176 KB
+- [LaParolaGiusta_ep05_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_copertina_2.png) · 136 KB
+- [LaParolaGiusta_ep05_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_finale.png) · 130 KB
+- [LaParolaGiusta_ep05_estratto1_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto1_9x16_720p.mp4) · 3,9 MB
+- [LaParolaGiusta_ep05_estratto1_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto1_9x16.mp4) · 14,1 MB
+- [LaParolaGiusta_ep05_estratto2_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto2_9x16_720p.mp4) · 7,3 MB
+- [LaParolaGiusta_ep05_estratto2_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto2_9x16.mp4) · 26,5 MB
+- [LaParolaGiusta_ep05_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_miniatura_youtube.jpg) · 101 KB
+- [LaParolaGiusta_ep05_reel_promo_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_reel_promo_9x16_720p.mp4) · 1,5 MB
+- [LaParolaGiusta_ep05_reel_promo_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_reel_promo_9x16.mp4) · 4,6 MB
+- [LaParolaGiusta_ep05_social_2027-03-19_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-19_storia-anticipo.jpg) · 117 KB
+- [LaParolaGiusta_ep05_social_2027-03-23_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-23_annuncio-online.jpg) · 90 KB
+- [LaParolaGiusta_ep05_social_2027-03-25_citazione.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-25_citazione.jpg) · 106 KB
+- [LaParolaGiusta_ep05_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_social.md) · 5 KB
+- [LaParolaGiusta_ep05_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_sottotitoli.srt) · 17 KB
+- [LaParolaGiusta_ep05_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_spotify.txt) · 2 KB
+- [LaParolaGiusta_ep05_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_youtube.mp4) · 181,0 MB
+- [LPG_POD_11_telefono-sera.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LPG_POD_11_telefono-sera.jpg) · 478 KB
+- [LPG_POD_12_due-sedie.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LPG_POD_12_due-sedie.jpg) · 451 KB
+
+**Ep 06**
+
+- [LaParolaGiusta_ep06_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_podcast.mp3) · 9,6 MB
+- [LaParolaGiusta_ep06_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_01.png) · 38 KB
+- [LaParolaGiusta_ep06_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_02.png) · 31 KB
+- [LaParolaGiusta_ep06_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_03.png) · 38 KB
+- [LaParolaGiusta_ep06_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_04.png) · 38 KB
+- [LaParolaGiusta_ep06_capitolo_05.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_05.png) · 34 KB
+- [LaParolaGiusta_ep06_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_copertina_3000.jpg) · 291 KB
+- [LaParolaGiusta_ep06_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_copione.md) · 10 KB
+- [LaParolaGiusta_ep06_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep06_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_copertina_1.png) · 169 KB
+- [LaParolaGiusta_ep06_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_copertina_2.png) · 161 KB
+- [LaParolaGiusta_ep06_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_finale.png) · 130 KB
+- [LaParolaGiusta_ep06_estratto1_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto1_9x16_720p.mp4) · 6,3 MB
+- [LaParolaGiusta_ep06_estratto1_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto1_9x16.mp4) · 22,6 MB
+- [LaParolaGiusta_ep06_estratto2_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto2_9x16_720p.mp4) · 11,7 MB
+- [LaParolaGiusta_ep06_estratto2_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto2_9x16.mp4) · 43,3 MB
+- [LaParolaGiusta_ep06_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_miniatura_youtube.jpg) · 106 KB
+- [LaParolaGiusta_ep06_reel_promo_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_reel_promo_9x16_720p.mp4) · 1,4 MB
+- [LaParolaGiusta_ep06_reel_promo_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_reel_promo_9x16.mp4) · 4,3 MB
+- [LaParolaGiusta_ep06_social_2027-04-02_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-02_storia-anticipo.jpg) · 121 KB
+- [LaParolaGiusta_ep06_social_2027-04-06_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-06_annuncio-online.jpg) · 81 KB
+- [LaParolaGiusta_ep06_social_2027-04-08_vero-o-falso.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-08_vero-o-falso.jpg) · 86 KB
+- [LaParolaGiusta_ep06_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_social.md) · 5 KB
+- [LaParolaGiusta_ep06_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_sottotitoli.srt) · 14 KB
+- [LaParolaGiusta_ep06_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_spotify.txt) · 3 KB
+- [LaParolaGiusta_ep06_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_youtube.mp4) · 156,7 MB
+- [LPG_POD_13_mano-sulla-spalla.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LPG_POD_13_mano-sulla-spalla.jpg) · 339 KB
+- [LPG_POD_14_panchina.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LPG_POD_14_panchina.jpg) · 549 KB
+
 **Ep 07**
 
 - [LaParolaGiusta_ep07_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-07/LaParolaGiusta_ep07_podcast.mp3) · 9,6 MB
@@ -201,6 +262,67 @@ Aggiornato il 8 novembre 2026 alle ore 02:19. Un link per ogni file, che lo scar
 - [LaParolaGiusta_ep08_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LaParolaGiusta_ep08_youtube.mp4) · 150,2 MB
 - [LPG_POD_17_cornice-finestra.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LPG_POD_17_cornice-finestra.jpg) · 535 KB
 - [LPG_POD_18_bicchiere.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LPG_POD_18_bicchiere.jpg) · 311 KB
+
+**Ep 09**
+
+- [LaParolaGiusta_ep09_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_podcast.mp3) · 9,7 MB
+- [LaParolaGiusta_ep09_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_01.png) · 44 KB
+- [LaParolaGiusta_ep09_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_02.png) · 38 KB
+- [LaParolaGiusta_ep09_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_03.png) · 49 KB
+- [LaParolaGiusta_ep09_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_04.png) · 43 KB
+- [LaParolaGiusta_ep09_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_copertina_3000.jpg) · 267 KB
+- [LaParolaGiusta_ep09_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_copione.md) · 10 KB
+- [LaParolaGiusta_ep09_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep09_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_copertina_1.png) · 164 KB
+- [LaParolaGiusta_ep09_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_copertina_2.png) · 162 KB
+- [LaParolaGiusta_ep09_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_finale.png) · 128 KB
+- [LaParolaGiusta_ep09_estratto1_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto1_9x16_720p.mp4) · 2,9 MB
+- [LaParolaGiusta_ep09_estratto1_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto1_9x16.mp4) · 10,3 MB
+- [LaParolaGiusta_ep09_estratto2_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto2_9x16_720p.mp4) · 4,7 MB
+- [LaParolaGiusta_ep09_estratto2_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto2_9x16.mp4) · 16,8 MB
+- [LaParolaGiusta_ep09_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_miniatura_youtube.jpg) · 105 KB
+- [LaParolaGiusta_ep09_reel_promo_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_reel_promo_9x16_720p.mp4) · 1,2 MB
+- [LaParolaGiusta_ep09_reel_promo_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_reel_promo_9x16.mp4) · 3,7 MB
+- [LaParolaGiusta_ep09_social_2027-05-14_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-14_storia-anticipo.jpg) · 120 KB
+- [LaParolaGiusta_ep09_social_2027-05-18_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-18_annuncio-online.jpg) · 93 KB
+- [LaParolaGiusta_ep09_social_2027-05-20_citazione.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-20_citazione.jpg) · 105 KB
+- [LaParolaGiusta_ep09_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_social.md) · 5 KB
+- [LaParolaGiusta_ep09_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_sottotitoli.srt) · 15 KB
+- [LaParolaGiusta_ep09_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_spotify.txt) · 2 KB
+- [LaParolaGiusta_ep09_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_youtube.mp4) · 158,9 MB
+- [LPG_POD_19_banco-falegname.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LPG_POD_19_banco-falegname.jpg) · 684 KB
+- [LPG_POD_20_camera-albergo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LPG_POD_20_camera-albergo.jpg) · 315 KB
+
+**Ep 10**
+
+- [LaParolaGiusta_ep10_podcast.mp3](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_podcast.mp3) · 8,6 MB
+- [LaParolaGiusta_ep10_capitolo_01.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_01.png) · 33 KB
+- [LaParolaGiusta_ep10_capitolo_02.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_02.png) · 44 KB
+- [LaParolaGiusta_ep10_capitolo_03.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_03.png) · 31 KB
+- [LaParolaGiusta_ep10_capitolo_04.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_04.png) · 33 KB
+- [LaParolaGiusta_ep10_capitolo_05.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_05.png) · 34 KB
+- [LaParolaGiusta_ep10_copertina_3000.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_copertina_3000.jpg) · 262 KB
+- [LaParolaGiusta_ep10_copione.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_copione.md) · 9 KB
+- [LaParolaGiusta_ep10_descrizione.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_descrizione.txt) · 3 KB
+- [LaParolaGiusta_ep10_estratto_copertina_1.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_copertina_1.png) · 138 KB
+- [LaParolaGiusta_ep10_estratto_copertina_2.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_copertina_2.png) · 154 KB
+- [LaParolaGiusta_ep10_estratto_finale.png](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_finale.png) · 127 KB
+- [LaParolaGiusta_ep10_estratto1_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto1_9x16_720p.mp4) · 6,3 MB
+- [LaParolaGiusta_ep10_estratto1_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto1_9x16.mp4) · 23,4 MB
+- [LaParolaGiusta_ep10_estratto2_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto2_9x16_720p.mp4) · 4,0 MB
+- [LaParolaGiusta_ep10_estratto2_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto2_9x16.mp4) · 14,5 MB
+- [LaParolaGiusta_ep10_miniatura_youtube.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_miniatura_youtube.jpg) · 98 KB
+- [LaParolaGiusta_ep10_reel_promo_9x16_720p.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_reel_promo_9x16_720p.mp4) · 978 KB
+- [LaParolaGiusta_ep10_reel_promo_9x16.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_reel_promo_9x16.mp4) · 2,8 MB
+- [LaParolaGiusta_ep10_social_2027-05-28_storia-anticipo.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-05-28_storia-anticipo.jpg) · 114 KB
+- [LaParolaGiusta_ep10_social_2027-06-01_annuncio-online.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-06-01_annuncio-online.jpg) · 72 KB
+- [LaParolaGiusta_ep10_social_2027-06-03_vero-o-falso.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-06-03_vero-o-falso.jpg) · 69 KB
+- [LaParolaGiusta_ep10_social_social.md](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_social.md) · 5 KB
+- [LaParolaGiusta_ep10_sottotitoli.srt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_sottotitoli.srt) · 13 KB
+- [LaParolaGiusta_ep10_spotify.txt](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_spotify.txt) · 3 KB
+- [LaParolaGiusta_ep10_youtube.mp4](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_youtube.mp4) · 140,2 MB
+- [LPG_POD_21_due-passi.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LPG_POD_21_due-passi.jpg) · 902 KB
+- [LPG_POD_22_tango.jpg](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LPG_POD_22_tango.jpg) · 241 KB
 
 ## Tutti i file, cartella per cartella
 
@@ -363,6 +485,75 @@ Le voci delle singole battute sono in fondo.
 | LaParolaGiusta_ep04_social_2027-03-11_vero-o-falso.jpg | Ep 04/social | 86 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04/LaParolaGiusta_ep04_social_2027-03-11_vero-o-falso.jpg) |
 | LaParolaGiusta_ep04_social_social.md | Ep 04/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04/LaParolaGiusta_ep04_social_social.md) |
 
+## Ep 05
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-05)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| LaParolaGiusta_ep05_copertina_3000.jpg | Ep 05 | 257 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_copertina_3000.jpg) |
+| LaParolaGiusta_ep05_copione.md | Ep 05 | 11 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_copione.md) |
+| LaParolaGiusta_ep05_descrizione.txt | Ep 05 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_descrizione.txt) |
+| LaParolaGiusta_ep05_miniatura_youtube.jpg | Ep 05 | 101 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_miniatura_youtube.jpg) |
+| LaParolaGiusta_ep05_podcast.mp3 | Ep 05 | 11,2 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_podcast.mp3) |
+| LaParolaGiusta_ep05_sottotitoli.srt | Ep 05 | 17 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_sottotitoli.srt) |
+| LaParolaGiusta_ep05_spotify.txt | Ep 05 | 2 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_spotify.txt) |
+| LaParolaGiusta_ep05_youtube.mp4 | Ep 05 | 181,0 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_youtube.mp4) |
+| LaParolaGiusta_ep05_estratto_copertina_1.png | Ep 05/estratti | 176 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_copertina_1.png) |
+| LaParolaGiusta_ep05_estratto_copertina_2.png | Ep 05/estratti | 136 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_copertina_2.png) |
+| LaParolaGiusta_ep05_estratto_finale.png | Ep 05/estratti | 130 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto_finale.png) |
+| LPG_POD_11_telefono-sera.jpg | Ep 05/foto | 478 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LPG_POD_11_telefono-sera.jpg) |
+| LPG_POD_12_due-sedie.jpg | Ep 05/foto | 451 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LPG_POD_12_due-sedie.jpg) |
+| LaParolaGiusta_ep05_capitolo_01.png | Ep 05/grafiche | 39 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_01.png) |
+| LaParolaGiusta_ep05_capitolo_02.png | Ep 05/grafiche | 37 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_02.png) |
+| LaParolaGiusta_ep05_capitolo_03.png | Ep 05/grafiche | 37 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_03.png) |
+| LaParolaGiusta_ep05_capitolo_04.png | Ep 05/grafiche | 42 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_capitolo_04.png) |
+| LaParolaGiusta_ep05_estratto1_9x16_720p.mp4 | Ep 05/reel | 3,9 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto1_9x16_720p.mp4) |
+| LaParolaGiusta_ep05_estratto1_9x16.mp4 | Ep 05/reel | 14,1 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto1_9x16.mp4) |
+| LaParolaGiusta_ep05_estratto2_9x16_720p.mp4 | Ep 05/reel | 7,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto2_9x16_720p.mp4) |
+| LaParolaGiusta_ep05_estratto2_9x16.mp4 | Ep 05/reel | 26,5 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_estratto2_9x16.mp4) |
+| LaParolaGiusta_ep05_reel_promo_9x16_720p.mp4 | Ep 05/reel | 1,5 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_reel_promo_9x16_720p.mp4) |
+| LaParolaGiusta_ep05_reel_promo_9x16.mp4 | Ep 05/reel | 4,6 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_reel_promo_9x16.mp4) |
+| LaParolaGiusta_ep05_social_2027-03-19_storia-anticipo.jpg | Ep 05/social | 117 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-19_storia-anticipo.jpg) |
+| LaParolaGiusta_ep05_social_2027-03-23_annuncio-online.jpg | Ep 05/social | 90 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-23_annuncio-online.jpg) |
+| LaParolaGiusta_ep05_social_2027-03-25_citazione.jpg | Ep 05/social | 106 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_2027-03-25_citazione.jpg) |
+| LaParolaGiusta_ep05_social_social.md | Ep 05/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05/LaParolaGiusta_ep05_social_social.md) |
+
+## Ep 06
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-06)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| LaParolaGiusta_ep06_copertina_3000.jpg | Ep 06 | 291 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_copertina_3000.jpg) |
+| LaParolaGiusta_ep06_copione.md | Ep 06 | 10 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_copione.md) |
+| LaParolaGiusta_ep06_descrizione.txt | Ep 06 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_descrizione.txt) |
+| LaParolaGiusta_ep06_miniatura_youtube.jpg | Ep 06 | 106 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_miniatura_youtube.jpg) |
+| LaParolaGiusta_ep06_podcast.mp3 | Ep 06 | 9,6 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_podcast.mp3) |
+| LaParolaGiusta_ep06_sottotitoli.srt | Ep 06 | 14 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_sottotitoli.srt) |
+| LaParolaGiusta_ep06_spotify.txt | Ep 06 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_spotify.txt) |
+| LaParolaGiusta_ep06_youtube.mp4 | Ep 06 | 156,7 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_youtube.mp4) |
+| LaParolaGiusta_ep06_estratto_copertina_1.png | Ep 06/estratti | 169 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_copertina_1.png) |
+| LaParolaGiusta_ep06_estratto_copertina_2.png | Ep 06/estratti | 161 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_copertina_2.png) |
+| LaParolaGiusta_ep06_estratto_finale.png | Ep 06/estratti | 130 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto_finale.png) |
+| LPG_POD_13_mano-sulla-spalla.jpg | Ep 06/foto | 339 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LPG_POD_13_mano-sulla-spalla.jpg) |
+| LPG_POD_14_panchina.jpg | Ep 06/foto | 549 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LPG_POD_14_panchina.jpg) |
+| LaParolaGiusta_ep06_capitolo_01.png | Ep 06/grafiche | 38 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_01.png) |
+| LaParolaGiusta_ep06_capitolo_02.png | Ep 06/grafiche | 31 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_02.png) |
+| LaParolaGiusta_ep06_capitolo_03.png | Ep 06/grafiche | 38 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_03.png) |
+| LaParolaGiusta_ep06_capitolo_04.png | Ep 06/grafiche | 38 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_04.png) |
+| LaParolaGiusta_ep06_capitolo_05.png | Ep 06/grafiche | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_capitolo_05.png) |
+| LaParolaGiusta_ep06_estratto1_9x16_720p.mp4 | Ep 06/reel | 6,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto1_9x16_720p.mp4) |
+| LaParolaGiusta_ep06_estratto1_9x16.mp4 | Ep 06/reel | 22,6 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto1_9x16.mp4) |
+| LaParolaGiusta_ep06_estratto2_9x16_720p.mp4 | Ep 06/reel | 11,7 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto2_9x16_720p.mp4) |
+| LaParolaGiusta_ep06_estratto2_9x16.mp4 | Ep 06/reel | 43,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_estratto2_9x16.mp4) |
+| LaParolaGiusta_ep06_reel_promo_9x16_720p.mp4 | Ep 06/reel | 1,4 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_reel_promo_9x16_720p.mp4) |
+| LaParolaGiusta_ep06_reel_promo_9x16.mp4 | Ep 06/reel | 4,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_reel_promo_9x16.mp4) |
+| LaParolaGiusta_ep06_social_2027-04-02_storia-anticipo.jpg | Ep 06/social | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-02_storia-anticipo.jpg) |
+| LaParolaGiusta_ep06_social_2027-04-06_annuncio-online.jpg | Ep 06/social | 81 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-06_annuncio-online.jpg) |
+| LaParolaGiusta_ep06_social_2027-04-08_vero-o-falso.jpg | Ep 06/social | 86 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_2027-04-08_vero-o-falso.jpg) |
+| LaParolaGiusta_ep06_social_social.md | Ep 06/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06/LaParolaGiusta_ep06_social_social.md) |
+
 ## Ep 07
 
 [Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-07)
@@ -431,6 +622,75 @@ Le voci delle singole battute sono in fondo.
 | LaParolaGiusta_ep08_social_2027-05-04_annuncio-online.jpg | Ep 08/social | 66 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LaParolaGiusta_ep08_social_2027-05-04_annuncio-online.jpg) |
 | LaParolaGiusta_ep08_social_2027-05-06_vero-o-falso.jpg | Ep 08/social | 94 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LaParolaGiusta_ep08_social_2027-05-06_vero-o-falso.jpg) |
 | LaParolaGiusta_ep08_social_social.md | Ep 08/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08/LaParolaGiusta_ep08_social_social.md) |
+
+## Ep 09
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-09)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| LaParolaGiusta_ep09_copertina_3000.jpg | Ep 09 | 267 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_copertina_3000.jpg) |
+| LaParolaGiusta_ep09_copione.md | Ep 09 | 10 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_copione.md) |
+| LaParolaGiusta_ep09_descrizione.txt | Ep 09 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_descrizione.txt) |
+| LaParolaGiusta_ep09_miniatura_youtube.jpg | Ep 09 | 105 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_miniatura_youtube.jpg) |
+| LaParolaGiusta_ep09_podcast.mp3 | Ep 09 | 9,7 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_podcast.mp3) |
+| LaParolaGiusta_ep09_sottotitoli.srt | Ep 09 | 15 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_sottotitoli.srt) |
+| LaParolaGiusta_ep09_spotify.txt | Ep 09 | 2 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_spotify.txt) |
+| LaParolaGiusta_ep09_youtube.mp4 | Ep 09 | 158,9 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_youtube.mp4) |
+| LaParolaGiusta_ep09_estratto_copertina_1.png | Ep 09/estratti | 164 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_copertina_1.png) |
+| LaParolaGiusta_ep09_estratto_copertina_2.png | Ep 09/estratti | 162 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_copertina_2.png) |
+| LaParolaGiusta_ep09_estratto_finale.png | Ep 09/estratti | 128 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto_finale.png) |
+| LPG_POD_19_banco-falegname.jpg | Ep 09/foto | 684 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LPG_POD_19_banco-falegname.jpg) |
+| LPG_POD_20_camera-albergo.jpg | Ep 09/foto | 315 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LPG_POD_20_camera-albergo.jpg) |
+| LaParolaGiusta_ep09_capitolo_01.png | Ep 09/grafiche | 44 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_01.png) |
+| LaParolaGiusta_ep09_capitolo_02.png | Ep 09/grafiche | 38 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_02.png) |
+| LaParolaGiusta_ep09_capitolo_03.png | Ep 09/grafiche | 49 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_03.png) |
+| LaParolaGiusta_ep09_capitolo_04.png | Ep 09/grafiche | 43 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_capitolo_04.png) |
+| LaParolaGiusta_ep09_estratto1_9x16_720p.mp4 | Ep 09/reel | 2,9 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto1_9x16_720p.mp4) |
+| LaParolaGiusta_ep09_estratto1_9x16.mp4 | Ep 09/reel | 10,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto1_9x16.mp4) |
+| LaParolaGiusta_ep09_estratto2_9x16_720p.mp4 | Ep 09/reel | 4,7 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto2_9x16_720p.mp4) |
+| LaParolaGiusta_ep09_estratto2_9x16.mp4 | Ep 09/reel | 16,8 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_estratto2_9x16.mp4) |
+| LaParolaGiusta_ep09_reel_promo_9x16_720p.mp4 | Ep 09/reel | 1,2 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_reel_promo_9x16_720p.mp4) |
+| LaParolaGiusta_ep09_reel_promo_9x16.mp4 | Ep 09/reel | 3,7 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_reel_promo_9x16.mp4) |
+| LaParolaGiusta_ep09_social_2027-05-14_storia-anticipo.jpg | Ep 09/social | 120 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-14_storia-anticipo.jpg) |
+| LaParolaGiusta_ep09_social_2027-05-18_annuncio-online.jpg | Ep 09/social | 93 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-18_annuncio-online.jpg) |
+| LaParolaGiusta_ep09_social_2027-05-20_citazione.jpg | Ep 09/social | 105 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_2027-05-20_citazione.jpg) |
+| LaParolaGiusta_ep09_social_social.md | Ep 09/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09/LaParolaGiusta_ep09_social_social.md) |
+
+## Ep 10
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-10)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| LaParolaGiusta_ep10_copertina_3000.jpg | Ep 10 | 262 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_copertina_3000.jpg) |
+| LaParolaGiusta_ep10_copione.md | Ep 10 | 9 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_copione.md) |
+| LaParolaGiusta_ep10_descrizione.txt | Ep 10 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_descrizione.txt) |
+| LaParolaGiusta_ep10_miniatura_youtube.jpg | Ep 10 | 98 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_miniatura_youtube.jpg) |
+| LaParolaGiusta_ep10_podcast.mp3 | Ep 10 | 8,6 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_podcast.mp3) |
+| LaParolaGiusta_ep10_sottotitoli.srt | Ep 10 | 13 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_sottotitoli.srt) |
+| LaParolaGiusta_ep10_spotify.txt | Ep 10 | 3 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_spotify.txt) |
+| LaParolaGiusta_ep10_youtube.mp4 | Ep 10 | 140,2 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_youtube.mp4) |
+| LaParolaGiusta_ep10_estratto_copertina_1.png | Ep 10/estratti | 138 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_copertina_1.png) |
+| LaParolaGiusta_ep10_estratto_copertina_2.png | Ep 10/estratti | 154 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_copertina_2.png) |
+| LaParolaGiusta_ep10_estratto_finale.png | Ep 10/estratti | 127 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto_finale.png) |
+| LPG_POD_21_due-passi.jpg | Ep 10/foto | 902 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LPG_POD_21_due-passi.jpg) |
+| LPG_POD_22_tango.jpg | Ep 10/foto | 241 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LPG_POD_22_tango.jpg) |
+| LaParolaGiusta_ep10_capitolo_01.png | Ep 10/grafiche | 33 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_01.png) |
+| LaParolaGiusta_ep10_capitolo_02.png | Ep 10/grafiche | 44 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_02.png) |
+| LaParolaGiusta_ep10_capitolo_03.png | Ep 10/grafiche | 31 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_03.png) |
+| LaParolaGiusta_ep10_capitolo_04.png | Ep 10/grafiche | 33 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_04.png) |
+| LaParolaGiusta_ep10_capitolo_05.png | Ep 10/grafiche | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_capitolo_05.png) |
+| LaParolaGiusta_ep10_estratto1_9x16_720p.mp4 | Ep 10/reel | 6,3 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto1_9x16_720p.mp4) |
+| LaParolaGiusta_ep10_estratto1_9x16.mp4 | Ep 10/reel | 23,4 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto1_9x16.mp4) |
+| LaParolaGiusta_ep10_estratto2_9x16_720p.mp4 | Ep 10/reel | 4,0 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto2_9x16_720p.mp4) |
+| LaParolaGiusta_ep10_estratto2_9x16.mp4 | Ep 10/reel | 14,5 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_estratto2_9x16.mp4) |
+| LaParolaGiusta_ep10_reel_promo_9x16_720p.mp4 | Ep 10/reel | 978 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_reel_promo_9x16_720p.mp4) |
+| LaParolaGiusta_ep10_reel_promo_9x16.mp4 | Ep 10/reel | 2,8 MB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_reel_promo_9x16.mp4) |
+| LaParolaGiusta_ep10_social_2027-05-28_storia-anticipo.jpg | Ep 10/social | 114 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-05-28_storia-anticipo.jpg) |
+| LaParolaGiusta_ep10_social_2027-06-01_annuncio-online.jpg | Ep 10/social | 72 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-06-01_annuncio-online.jpg) |
+| LaParolaGiusta_ep10_social_2027-06-03_vero-o-falso.jpg | Ep 10/social | 69 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_2027-06-03_vero-o-falso.jpg) |
+| LaParolaGiusta_ep10_social_social.md | Ep 10/social | 5 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10/LaParolaGiusta_ep10_social_social.md) |
 
 ## Generale
 
@@ -814,6 +1074,151 @@ Le voci delle singole battute sono in fondo.
 | ep04_037.wav | Ep 04/voci | 219 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04-voci/ep04_037.wav) |
 | ep04_038.wav | Ep 04/voci | 417 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-04-voci/ep04_038.wav) |
 
+## Ep 05 · voci
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-05-voci)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| ep05_001.wav | Ep 05/voci | 527 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_001.wav) |
+| ep05_002.wav | Ep 05/voci | 325 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_002.wav) |
+| ep05_003.wav | Ep 05/voci | 521 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_003.wav) |
+| ep05_004.wav | Ep 05/voci | 407 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_004.wav) |
+| ep05_005.wav | Ep 05/voci | 152 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_005.wav) |
+| ep05_006.wav | Ep 05/voci | 149 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_006.wav) |
+| ep05_007.wav | Ep 05/voci | 454 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_007.wav) |
+| ep05_008.wav | Ep 05/voci | 64 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_008.wav) |
+| ep05_009.wav | Ep 05/voci | 339 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_009.wav) |
+| ep05_010.wav | Ep 05/voci | 69 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_010.wav) |
+| ep05_011.wav | Ep 05/voci | 144 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_011.wav) |
+| ep05_012.wav | Ep 05/voci | 72 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_012.wav) |
+| ep05_013.wav | Ep 05/voci | 196 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_013.wav) |
+| ep05_014.wav | Ep 05/voci | 189 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_014.wav) |
+| ep05_015.wav | Ep 05/voci | 302 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_015.wav) |
+| ep05_016.wav | Ep 05/voci | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_016.wav) |
+| ep05_017.wav | Ep 05/voci | 67 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_017.wav) |
+| ep05_018.wav | Ep 05/voci | 542 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_018.wav) |
+| ep05_019.wav | Ep 05/voci | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_019.wav) |
+| ep05_020.wav | Ep 05/voci | 279 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_020.wav) |
+| ep05_021.wav | Ep 05/voci | 69 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_021.wav) |
+| ep05_022.wav | Ep 05/voci | 239 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_022.wav) |
+| ep05_023.wav | Ep 05/voci | 245 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_023.wav) |
+| ep05_024.wav | Ep 05/voci | 184 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_024.wav) |
+| ep05_025.wav | Ep 05/voci | 169 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_025.wav) |
+| ep05_026.wav | Ep 05/voci | 279 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_026.wav) |
+| ep05_027.wav | Ep 05/voci | 109 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_027.wav) |
+| ep05_028.wav | Ep 05/voci | 427 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_028.wav) |
+| ep05_029.wav | Ep 05/voci | 177 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_029.wav) |
+| ep05_030.wav | Ep 05/voci | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_030.wav) |
+| ep05_031.wav | Ep 05/voci | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_031.wav) |
+| ep05_032.wav | Ep 05/voci | 314 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_032.wav) |
+| ep05_033.wav | Ep 05/voci | 87 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_033.wav) |
+| ep05_034.wav | Ep 05/voci | 196 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_034.wav) |
+| ep05_035.wav | Ep 05/voci | 32 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_035.wav) |
+| ep05_036.wav | Ep 05/voci | 257 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_036.wav) |
+| ep05_036a.wav | Ep 05/voci | 516 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_036a.wav) |
+| ep05_036b.wav | Ep 05/voci | 67 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_036b.wav) |
+| ep05_036c.wav | Ep 05/voci | 365 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_036c.wav) |
+| ep05_036d.wav | Ep 05/voci | 727 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_036d.wav) |
+| ep05_037.wav | Ep 05/voci | 534 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_037.wav) |
+| ep05_038.wav | Ep 05/voci | 587 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_038.wav) |
+| ep05_039.wav | Ep 05/voci | 116 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_039.wav) |
+| ep05_040.wav | Ep 05/voci | 34 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_040.wav) |
+| ep05_041.wav | Ep 05/voci | 64 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_041.wav) |
+| ep05_042.wav | Ep 05/voci | 57 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_042.wav) |
+| ep05_043.wav | Ep 05/voci | 62 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_043.wav) |
+| ep05_044.wav | Ep 05/voci | 89 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_044.wav) |
+| ep05_045.wav | Ep 05/voci | 49 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_045.wav) |
+| ep05_046.wav | Ep 05/voci | 241 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_046.wav) |
+| ep05_047.wav | Ep 05/voci | 142 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_047.wav) |
+| ep05_048.wav | Ep 05/voci | 262 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_048.wav) |
+| ep05_049.wav | Ep 05/voci | 74 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_049.wav) |
+| ep05_050.wav | Ep 05/voci | 432 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_050.wav) |
+| ep05_051.wav | Ep 05/voci | 57 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_051.wav) |
+| ep05_052.wav | Ep 05/voci | 114 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_052.wav) |
+| ep05_053.wav | Ep 05/voci | 236 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_053.wav) |
+| ep05_054.wav | Ep 05/voci | 472 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_054.wav) |
+| ep05_055.wav | Ep 05/voci | 196 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_055.wav) |
+| ep05_056.wav | Ep 05/voci | 344 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_056.wav) |
+| ep05_057.wav | Ep 05/voci | 485 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_057.wav) |
+| ep05_058.wav | Ep 05/voci | 224 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_058.wav) |
+| ep05_059.wav | Ep 05/voci | 502 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_059.wav) |
+| ep05_060.wav | Ep 05/voci | 172 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_060.wav) |
+| ep05_061.wav | Ep 05/voci | 59 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_061.wav) |
+| ep05_062.wav | Ep 05/voci | 76 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_062.wav) |
+| ep05_063.wav | Ep 05/voci | 94 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_063.wav) |
+| ep05_064.wav | Ep 05/voci | 142 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_064.wav) |
+| ep05_065.wav | Ep 05/voci | 57 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_065.wav) |
+| ep05_066.wav | Ep 05/voci | 79 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_066.wav) |
+| ep05_067.wav | Ep 05/voci | 127 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_067.wav) |
+| ep05_068.wav | Ep 05/voci | 81 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_068.wav) |
+| ep05_069.wav | Ep 05/voci | 74 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_069.wav) |
+| ep05_070.wav | Ep 05/voci | 169 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_070.wav) |
+| ep05_071.wav | Ep 05/voci | 62 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_071.wav) |
+| ep05_072.wav | Ep 05/voci | 467 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_072.wav) |
+| ep05_073.wav | Ep 05/voci | 174 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_073.wav) |
+| ep05_074.wav | Ep 05/voci | 74 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_074.wav) |
+| ep05_075.wav | Ep 05/voci | 327 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_075.wav) |
+| ep05_076.wav | Ep 05/voci | 254 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_076.wav) |
+| ep05_077.wav | Ep 05/voci | 469 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_077.wav) |
+| ep05_078.wav | Ep 05/voci | 142 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_078.wav) |
+| ep05_079.wav | Ep 05/voci | 241 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_079.wav) |
+| ep05_080.wav | Ep 05/voci | 102 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_080.wav) |
+| ep05_081.wav | Ep 05/voci | 172 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_081.wav) |
+| ep05_082.wav | Ep 05/voci | 112 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_082.wav) |
+| ep05_083.wav | Ep 05/voci | 405 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_083.wav) |
+| ep05_084.wav | Ep 05/voci | 92 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_084.wav) |
+| ep05_085.wav | Ep 05/voci | 114 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_085.wav) |
+| ep05_086.wav | Ep 05/voci | 469 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_086.wav) |
+| ep05_087.wav | Ep 05/voci | 384 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_087.wav) |
+| ep05_088.wav | Ep 05/voci | 294 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_088.wav) |
+| ep05_089.wav | Ep 05/voci | 452 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-05-voci/ep05_089.wav) |
+
+## Ep 06 · voci
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-06-voci)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| ep06_001.wav | Ep 06/voci | 462 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_001.wav) |
+| ep06_002.wav | Ep 06/voci | 414 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_002.wav) |
+| ep06_003.wav | Ep 06/voci | 312 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_003.wav) |
+| ep06_004.wav | Ep 06/voci | 514 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_004.wav) |
+| ep06_005.wav | Ep 06/voci | 319 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_005.wav) |
+| ep06_006.wav | Ep 06/voci | 329 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_006.wav) |
+| ep06_007.wav | Ep 06/voci | 422 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_007.wav) |
+| ep06_008.wav | Ep 06/voci | 359 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_008.wav) |
+| ep06_009.wav | Ep 06/voci | 516 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_009.wav) |
+| ep06_010.wav | Ep 06/voci | 436 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_010.wav) |
+| ep06_011.wav | Ep 06/voci | 549 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_011.wav) |
+| ep06_012.wav | Ep 06/voci | 667 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_012.wav) |
+| ep06_013.wav | Ep 06/voci | 409 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_013.wav) |
+| ep06_014.wav | Ep 06/voci | 396 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_014.wav) |
+| ep06_015.wav | Ep 06/voci | 276 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_015.wav) |
+| ep06_016.wav | Ep 06/voci | 441 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_016.wav) |
+| ep06_017.wav | Ep 06/voci | 707 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_017.wav) |
+| ep06_018.wav | Ep 06/voci | 796 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_018.wav) |
+| ep06_019.wav | Ep 06/voci | 569 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_019.wav) |
+| ep06_020.wav | Ep 06/voci | 572 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_020.wav) |
+| ep06_021.wav | Ep 06/voci | 552 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_021.wav) |
+| ep06_022.wav | Ep 06/voci | 716 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_022.wav) |
+| ep06_023.wav | Ep 06/voci | 476 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_023.wav) |
+| ep06_024.wav | Ep 06/voci | 154 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_024.wav) |
+| ep06_025.wav | Ep 06/voci | 574 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_025.wav) |
+| ep06_026.wav | Ep 06/voci | 601 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_026.wav) |
+| ep06_027.wav | Ep 06/voci | 479 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_027.wav) |
+| ep06_028.wav | Ep 06/voci | 449 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_028.wav) |
+| ep06_029.wav | Ep 06/voci | 144 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_029.wav) |
+| ep06_030.wav | Ep 06/voci | 554 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_030.wav) |
+| ep06_031.wav | Ep 06/voci | 577 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_031.wav) |
+| ep06_032.wav | Ep 06/voci | 634 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_032.wav) |
+| ep06_033.wav | Ep 06/voci | 497 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_033.wav) |
+| ep06_034.wav | Ep 06/voci | 565 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_034.wav) |
+| ep06_035.wav | Ep 06/voci | 662 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_035.wav) |
+| ep06_036.wav | Ep 06/voci | 472 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_036.wav) |
+| ep06_037.wav | Ep 06/voci | 212 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_037.wav) |
+| ep06_038.wav | Ep 06/voci | 427 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-06-voci/ep06_038.wav) |
+
 ## Ep 07 · voci
 
 [Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-07-voci)
@@ -949,6 +1354,129 @@ Le voci delle singole battute sono in fondo.
 | ep08_038.wav | Ep 08/voci | 384 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08-voci/ep08_038.wav) |
 | ep08_039.wav | Ep 08/voci | 239 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08-voci/ep08_039.wav) |
 | ep08_040.wav | Ep 08/voci | 369 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-08-voci/ep08_040.wav) |
+
+## Ep 09 · voci
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-09-voci)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| ep09_001.wav | Ep 09/voci | 476 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_001.wav) |
+| ep09_002.wav | Ep 09/voci | 464 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_002.wav) |
+| ep09_003.wav | Ep 09/voci | 487 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_003.wav) |
+| ep09_004.wav | Ep 09/voci | 219 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_004.wav) |
+| ep09_005.wav | Ep 09/voci | 267 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_005.wav) |
+| ep09_006.wav | Ep 09/voci | 532 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_006.wav) |
+| ep09_007.wav | Ep 09/voci | 62 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_007.wav) |
+| ep09_008.wav | Ep 09/voci | 167 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_008.wav) |
+| ep09_009.wav | Ep 09/voci | 62 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_009.wav) |
+| ep09_010.wav | Ep 09/voci | 359 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_010.wav) |
+| ep09_011.wav | Ep 09/voci | 94 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_011.wav) |
+| ep09_012.wav | Ep 09/voci | 149 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_012.wav) |
+| ep09_013.wav | Ep 09/voci | 267 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_013.wav) |
+| ep09_014.wav | Ep 09/voci | 125 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_014.wav) |
+| ep09_015.wav | Ep 09/voci | 72 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_015.wav) |
+| ep09_016.wav | Ep 09/voci | 169 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_016.wav) |
+| ep09_017.wav | Ep 09/voci | 332 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_017.wav) |
+| ep09_018.wav | Ep 09/voci | 492 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_018.wav) |
+| ep09_019.wav | Ep 09/voci | 502 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_019.wav) |
+| ep09_020.wav | Ep 09/voci | 76 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_020.wav) |
+| ep09_021.wav | Ep 09/voci | 132 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_021.wav) |
+| ep09_022.wav | Ep 09/voci | 262 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_022.wav) |
+| ep09_023.wav | Ep 09/voci | 134 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_023.wav) |
+| ep09_024.wav | Ep 09/voci | 254 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_024.wav) |
+| ep09_025.wav | Ep 09/voci | 392 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_025.wav) |
+| ep09_026.wav | Ep 09/voci | 116 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_026.wav) |
+| ep09_027.wav | Ep 09/voci | 137 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_027.wav) |
+| ep09_028.wav | Ep 09/voci | 189 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_028.wav) |
+| ep09_029.wav | Ep 09/voci | 417 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_029.wav) |
+| ep09_030.wav | Ep 09/voci | 129 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_030.wav) |
+| ep09_031.wav | Ep 09/voci | 232 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_031.wav) |
+| ep09_032.wav | Ep 09/voci | 361 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_032.wav) |
+| ep09_033.wav | Ep 09/voci | 74 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_033.wav) |
+| ep09_034.wav | Ep 09/voci | 177 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_034.wav) |
+| ep09_035.wav | Ep 09/voci | 62 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_035.wav) |
+| ep09_036.wav | Ep 09/voci | 149 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_036.wav) |
+| ep09_037.wav | Ep 09/voci | 849 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_037.wav) |
+| ep09_038.wav | Ep 09/voci | 245 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_038.wav) |
+| ep09_039.wav | Ep 09/voci | 87 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_039.wav) |
+| ep09_040.wav | Ep 09/voci | 257 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_040.wav) |
+| ep09_041.wav | Ep 09/voci | 104 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_041.wav) |
+| ep09_042.wav | Ep 09/voci | 167 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_042.wav) |
+| ep09_043.wav | Ep 09/voci | 252 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_043.wav) |
+| ep09_044.wav | Ep 09/voci | 92 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_044.wav) |
+| ep09_045.wav | Ep 09/voci | 161 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_045.wav) |
+| ep09_046.wav | Ep 09/voci | 125 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_046.wav) |
+| ep09_047.wav | Ep 09/voci | 167 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_047.wav) |
+| ep09_048.wav | Ep 09/voci | 352 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_048.wav) |
+| ep09_049.wav | Ep 09/voci | 134 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_049.wav) |
+| ep09_050.wav | Ep 09/voci | 499 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_050.wav) |
+| ep09_051.wav | Ep 09/voci | 49 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_051.wav) |
+| ep09_052.wav | Ep 09/voci | 287 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_052.wav) |
+| ep09_053.wav | Ep 09/voci | 97 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_053.wav) |
+| ep09_054.wav | Ep 09/voci | 89 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_054.wav) |
+| ep09_055.wav | Ep 09/voci | 239 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_055.wav) |
+| ep09_056.wav | Ep 09/voci | 139 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_056.wav) |
+| ep09_057.wav | Ep 09/voci | 592 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_057.wav) |
+| ep09_058.wav | Ep 09/voci | 47 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_058.wav) |
+| ep09_059.wav | Ep 09/voci | 125 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_059.wav) |
+| ep09_060.wav | Ep 09/voci | 334 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_060.wav) |
+| ep09_061.wav | Ep 09/voci | 436 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_061.wav) |
+| ep09_062.wav | Ep 09/voci | 139 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_062.wav) |
+| ep09_063.wav | Ep 09/voci | 382 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_063.wav) |
+| ep09_064.wav | Ep 09/voci | 59 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_064.wav) |
+| ep09_065.wav | Ep 09/voci | 384 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_065.wav) |
+| ep09_066.wav | Ep 09/voci | 121 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_066.wav) |
+| ep09_067.wav | Ep 09/voci | 107 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_067.wav) |
+| ep09_068.wav | Ep 09/voci | 219 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_068.wav) |
+| ep09_069.wav | Ep 09/voci | 94 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_069.wav) |
+| ep09_070.wav | Ep 09/voci | 502 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_070.wav) |
+| ep09_071.wav | Ep 09/voci | 52 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_071.wav) |
+| ep09_072.wav | Ep 09/voci | 169 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_072.wav) |
+| ep09_073.wav | Ep 09/voci | 269 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_073.wav) |
+| ep09_074.wav | Ep 09/voci | 464 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_074.wav) |
+| ep09_075.wav | Ep 09/voci | 259 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_075.wav) |
+| ep09_076.wav | Ep 09/voci | 414 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-09-voci/ep09_076.wav) |
+
+## Ep 10 · voci
+
+[Pagina della release](https://github.com/aki1806-droid/la-parola-giusta-file/releases/tag/ep-10-voci)
+
+| File | Cartella | Dimensione | Link |
+|---|---|---|---|
+| ep10_001.wav | Ep 10/voci | 412 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_001.wav) |
+| ep10_002.wav | Ep 10/voci | 234 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_002.wav) |
+| ep10_003.wav | Ep 10/voci | 519 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_003.wav) |
+| ep10_004.wav | Ep 10/voci | 412 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_004.wav) |
+| ep10_005.wav | Ep 10/voci | 412 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_005.wav) |
+| ep10_006.wav | Ep 10/voci | 596 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_006.wav) |
+| ep10_007.wav | Ep 10/voci | 582 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_007.wav) |
+| ep10_008.wav | Ep 10/voci | 369 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_008.wav) |
+| ep10_009.wav | Ep 10/voci | 485 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_009.wav) |
+| ep10_010.wav | Ep 10/voci | 439 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_010.wav) |
+| ep10_011.wav | Ep 10/voci | 754 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_011.wav) |
+| ep10_012.wav | Ep 10/voci | 626 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_012.wav) |
+| ep10_013.wav | Ep 10/voci | 714 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_013.wav) |
+| ep10_014.wav | Ep 10/voci | 276 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_014.wav) |
+| ep10_015.wav | Ep 10/voci | 217 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_015.wav) |
+| ep10_016.wav | Ep 10/voci | 572 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_016.wav) |
+| ep10_017.wav | Ep 10/voci | 657 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_017.wav) |
+| ep10_018.wav | Ep 10/voci | 534 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_018.wav) |
+| ep10_019.wav | Ep 10/voci | 596 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_019.wav) |
+| ep10_020.wav | Ep 10/voci | 85 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_020.wav) |
+| ep10_021.wav | Ep 10/voci | 732 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_021.wav) |
+| ep10_022.wav | Ep 10/voci | 599 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_022.wav) |
+| ep10_023.wav | Ep 10/voci | 959 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_023.wav) |
+| ep10_024.wav | Ep 10/voci | 144 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_024.wav) |
+| ep10_025.wav | Ep 10/voci | 459 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_025.wav) |
+| ep10_026.wav | Ep 10/voci | 556 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_026.wav) |
+| ep10_027.wav | Ep 10/voci | 605 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_027.wav) |
+| ep10_028.wav | Ep 10/voci | 559 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_028.wav) |
+| ep10_029.wav | Ep 10/voci | 499 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_029.wav) |
+| ep10_030.wav | Ep 10/voci | 527 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_030.wav) |
+| ep10_031.wav | Ep 10/voci | 384 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_031.wav) |
+| ep10_032.wav | Ep 10/voci | 245 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_032.wav) |
+| ep10_033.wav | Ep 10/voci | 452 KB | [scarica](https://github.com/aki1806-droid/la-parola-giusta-file/releases/download/ep-10-voci/ep10_033.wav) |
 
 ## Trailer · voci
 
